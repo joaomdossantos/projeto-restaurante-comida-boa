@@ -1,0 +1,127 @@
+/* ESTILIZAÇÕES GLOBAIS */
+
+div.row {
+	border-bottom: 2px solid #e5e5e5;
+	padding: 50px 0;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+h2 {
+	border-bottom: 2px solid #A72608;
+	text-align: center;
+}
+
+a.botoes {
+	text-decoration: none;
+	color: #fff;
+	background-color: #00cc00;
+	padding: 10px 10px;
+	text-align: center;
+	border-radius: 10px;
+	font-weight: 500;
+}
+
+a.botoes:hover {
+	background-color: #a72608;
+}
+
+
+
+/* ESTILIZANDO A NAVBAR */
+
+nav#navbarid {
+	background-color:#A72608;
+}
+
+a#link-navbar {
+	color: #fff;
+	margin: 0 10px;
+}
+
+a#link-navbar:hover  {
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
+ul.navbar-nav a{
+	font-weight: 600;
+}
+
+button#busca {
+	background-color: #00dd00;
+	color: #fff;
+}
+
+button#busca:hover {
+	background-color: green;
+}
+
+a#logo {
+	color: #fff;
+}
+
+a#logo:hover {
+	opacity: 0.4;
+}
+
+/* ESTILIZANDO O MAIN CONTENT */
+
+main {
+	margin-top: 70px;
+}
+
+section#principal h1  {
+	border-bottom: 2px solid #A72608;
+	text-align: center;
+}
+
+/* ESTILIZANDO OS CARDS */
+
+#card-image {
+	width: 100%;
+	height: 100%;
+}
+
+div#ultima-row {
+	border-bottom: none;
+}
+
+/* ESTILIZANDO O RODAPÉ */
+
+footer.rodape {
+	background-color: #A72608;
+	color: #fff;
+}
+
+footer.rodape ul{
+	list-style-type: none;
+	margin-left: 30%;
+}
+
+footer.rodape ul a {
+	color: #fff;
+}
+
+footer.rodape h5>a{
+	color: #fff;
+}
+
+footer.rodape a#logo-rodape {
+	color: #fff;
+}
+
+footer.rodape a#logo-rodape:hover {
+	opacity: 0.4;
+}
+
+
+
+
+
+
+
+
